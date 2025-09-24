@@ -11,7 +11,7 @@ This repository contains the RMG input and output files used to construct and va
   - `output.inp` : Generated mechanism file (reaction kinetics and species data)  
   - `output.html` : HTML summary of the generated mechanism  
 
-- **RMG-test/** : Files used for mechanism validation and testing  
-  - `input.py` : Test input script  
+- **RMG-test/** : Files used for mechanism validation 
+  - `input.py` : RMG input script  
   - `output.inp` : Mechanism file generated for validation  
-  - `output.html` : HTML summary of the test mechanism  
+  - `output.html` : HTML summary of the generated mechanism  
